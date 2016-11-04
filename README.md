@@ -1,2 +1,2 @@
 # hypno
-http://epicurious.github.io
+http://epicuriouscpl.github.io
